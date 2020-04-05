@@ -69,7 +69,7 @@
 		<repository>
 			<id>github</id>
 			<name>GitHub IAC2020 Apache Maven Packages</name>
-			<url>https://maven.pkg.github.com/karmalegend/userMicroService</url>
+			<url>https://maven.pkg.github.com/ta100rik/Microservice_shoppingcard</url>
 		</repository>
 	</distributionManagement>
 
