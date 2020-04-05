@@ -21,7 +21,7 @@
                 <repository>
                     <id>github</id>
                     <name>GitHub IAC2020 Apache Maven Packages</name>
-                    <url>https://maven.pkg.github.com/karmalegend/userMicroService</url>
+                    <url>https://maven.pkg.github.com/ta100rik/Microservice_shoppingcard</url>
                 </repository>
             </repositories>
         </profile>
@@ -31,7 +31,7 @@
         <server>
             <id>github</id>
             <username>x-accesss-token</username>
-            <password>1f2dc456c6723b18d90743d418e4c3213d4bd7db</password>
+            <password>4e36764a41a68f56b5050d44034a1f8aaabf27d8</password>
         </server>
     </servers>
 </settings>
